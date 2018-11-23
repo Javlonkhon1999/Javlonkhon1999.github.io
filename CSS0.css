@@ -1,0 +1,51 @@
+h1{
+	 color: red;
+	  text-shadow: 2px 2px 4px white;
+	  text-align: center;
+}
+body{
+	background: purple url(08.jpg);
+	background-position: center;
+    background-repeat: no-repeat,repeat;
+    padding: 
+}
+div{
+	color: white; 
+}
+.box-1{
+ background-color: red;
+}
+p{
+
+ 	color: green;	
+ 	text-shadow: 3px 3px 10px red;
+ 	font-family:Arabic Typesetting;
+	  font-size: 32pt;
+ 	}
+h2{
+ 	color: white;	
+ 	text-shadow: 2px 2px 4px green;
+ 	text-align: center;
+ 	 font-family:Monotype Corsiva;
+	  font-size: 30pt; 
+}
+
+ol{
+ 	color: white;
+ 	text-shadow: 2px 2px 4px green;
+	  font-size: 20pt; 
+}
+}
+a{
+	style="font-size:5vw;
+	color: green;
+
+}
+
+div {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid white;
+    margin: 0;
+}
+

@@ -1,0 +1,57 @@
+h1{
+	 color: red;
+	  text-shadow: 5px 5px 19px white;
+	  text-align: center;
+	  font-family:Lucida Calligraphy;
+	  font-size: 12pt; 
+}
+body{
+	background: black url(tomchi.jpg);
+	background-position: center;
+    background-repeat: no-repeat,repeat;
+    padding: 
+}
+	
+    background-repeat: center, no-repeat;
+}
+div{
+	color: white; 
+	 font-family:Vijaya;
+ 	 font-size: 12pt; 
+ 	margin-left: 250px;
+}
+a {
+	border-image-outset-shadow: 2px 2px 4px white;
+	float: center;
+
+}
+.box-1{
+ background-color: white;
+  font-family:Vijaya;
+  font-size: 20pt; 
+ margin-left: 250px;
+
+}
+h2{
+ 	color: white;	
+ 	text-shadow: 2px 2px 4px green;
+}
+
+ol{
+ 	color: white;
+}
+a{
+	style="font-size:5vw;
+	color: green;
+
+}
+
+div {
+    width: 1500px;
+    padding: 10px;
+    border: 5px solid red;
+    margin: 0;
+    font-size: 15pt; 
+    font-family:Algerian;
+    color: red;
+}
