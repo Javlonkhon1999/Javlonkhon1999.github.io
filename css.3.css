@@ -14,7 +14,7 @@ h2{
     
 }
 body{
-	background: black url(city.jpg);
+	background-image: url(city.jpg);
     background-position: center;
     background-repeat: no-repeat,repeat;
     padding: 
