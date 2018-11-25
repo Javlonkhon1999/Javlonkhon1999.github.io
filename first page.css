@@ -17,6 +17,7 @@ div{
 	 font-family:Vijaya;
  	 font-size: 20pt;
  	margin-left: 250px;
+	text-shadow: 5px 5px 19px red;
 }
 a {
 	border-image-outset-shadow: 2px 2px 4px white;
@@ -26,7 +27,7 @@ a {
 .box-1{
 
  color: red;
-	  text-shadow: 5px 5px 19px white;
+	  text-shadow: 5px 5px 19px green;
 	  font-family:Lucida Calligraphy;
   	  font-size:18pt; 
  	  margin-left: 250px;
@@ -36,6 +37,7 @@ h2{
  	color: white;	
  	font-size: 18pt;
 	text-shadow: 2px 2px 4px green;
+	text-shadow: 5px 5px 19px red;
 }
 
 
