@@ -3,7 +3,7 @@ h1{
 	  text-shadow: 5px 5px 19px white;
 	  text-align: center;
 	  font-family:Lucida Calligraphy;
-	  font-size: 12pt; 
+	  font-size: 18pt; 
 }
 body{
 	background: black url(08.jpg);
@@ -34,7 +34,8 @@ a {
 }
 h2{
  	color: white;	
- 	text-shadow: 2px 2px 4px green;
+ 	font-size: 18pt;
+	text-shadow: 2px 2px 4px green;
 }
 
 
