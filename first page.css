@@ -5,18 +5,15 @@ h1{
 	  font-family:Lucida Calligraphy;
 	  font-size: 12pt; 
 }
-
 body{
-	background: black url(tomchi.JPG);
+	background: black url(08.jpg);
 	background-position: center;
     background-repeat: no-repeat,repeat;
     padding: 
 }
 	
-    background-repeat: center, no-repeat;
-}
 div{
-      	 color: white; 
+	color: white; 
 	 font-family:Vijaya;
  	 font-size: 12pt; 
  	margin-left: 250px;
@@ -26,12 +23,21 @@ a {
 	float: center;
 
 }
+.box-1{
+
+ color: red;
+	  text-shadow: 5px 5px 19px white;
+	  font-family:Lucida Calligraphy;
+  	  font-size:18pt; 
+ 	  margin-left: 250px;
 
 }
 h2{
  	color: white;	
  	text-shadow: 2px 2px 4px green;
 }
+
+
 #hover{
 	text-shadow: 2px 2px 4px green;
 	text-align: center;
