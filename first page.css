@@ -5,6 +5,7 @@ h1{
 	  font-family:Lucida Calligraphy;
 	  font-size: 12pt; 
 }
+
 body{
 	background: black url(tomchi.JPG);
 	background-position: center;
@@ -25,18 +26,24 @@ a {
 	float: center;
 
 }
-.box-1{
-	   color: red;
-	  text-shadow: 5px 5px 19px white;
-	  font-family:Lucida Calligraphy;
-  	  font-size:18pt; 
- 	  margin-left: 250px;
 
 }
 h2{
  	color: white;	
  	text-shadow: 2px 2px 4px green;
 }
+#hover{
+	text-shadow: 2px 2px 4px green;
+	text-align: center;
+	color: blue;
+	transition: 1s;
+	margin: 500;
+	font-size: 30pt; 
+ 
+}
+ #hover:hover{
+ 	color: white;
+ }
 
 ol{
  	color: white;
