@@ -29,6 +29,23 @@ h2{
  	 font-family:Monotype Corsiva;
 	  font-size: 30pt; 
 }
+#hover{
+	text-shadow: 2px 2px 4px green;
+	text-align: center;
+	color: blue;
+	transition: 1s;
+	margin: 500;
+	font-size: 30pt; 
+ 
+}
+ #hover:hover{
+ 	color: white;
+ }
+
+div {
+    border: 5px solid white;
+    margin: 0;
+}
 
 ol{
  	color: white;
@@ -42,8 +59,4 @@ a{
 
 }
 
-div {
-    border: 5px solid white;
-    margin: 0;
-}
 
