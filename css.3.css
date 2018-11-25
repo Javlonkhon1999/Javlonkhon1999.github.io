@@ -16,7 +16,7 @@ h2{
 #hover{
 	text-shadow: 2px 2px 4px green;
 	text-align: center;
-	color: red;
+	color: blue;
 	transition: 1s;
 	margin: 500;
 	font-size: 30pt; 
